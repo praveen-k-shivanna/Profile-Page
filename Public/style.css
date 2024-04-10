@@ -108,6 +108,7 @@
     position: absolute;
     top: -10%;
     right: 10%;
+    border-radius: 20%;
   }
   .pro h2 {
     width: 40%;
@@ -115,7 +116,7 @@
     font-weight: 600;
   }
   
-  /* GAMES */
+  /* Skills */
   .status {
     margin-bottom: 3rem;
   }
