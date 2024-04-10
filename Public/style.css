@@ -106,12 +106,12 @@ main {
 .btn.erp {
 background: #65dfc9;
 color: #fff;
-border-color: #4d04bc;
+border-color: #2f04bc12;
 transition: all 0.5s ease-in-out;
 }
 .btn.erp:hover{
 background: transparent;
-border-color: white;
+border-color: #6cdaeb4f;
 color: #000;
 .link h2 {
   padding: 0rem 2rem;
@@ -121,12 +121,12 @@ color: #000;
 .btn.dev {
 background: #65dfc9;
 color: #fff;
-border-color: #4d04bc;
+border-color: #2f04bc12;
 transition: all 0.5s ease-in-out;
 }
 .btn.dev:hover{
 background: transparent;
-border-color: white;
+border-color: #6cdaeb4f;
 color: #000;
 .link h2 {
   padding: 0rem 2rem;
@@ -136,12 +136,12 @@ color: #000;
 .btn.test {
 background: #65dfc9;
 color: #fff;
-border-color: #4d04bc;
+border-color: #2f04bc12;
 transition: all 0.5s ease-in-out;
 }
 .btn.test:hover{
 background: transparent;
-border-color: white;
+border-color: #6cdaeb4f;
 color: #000;
 .link h2 {
   padding: 0rem 2rem;
@@ -151,12 +151,12 @@ color: #000;
 .btn.support {
 background: #65dfc9;
 color: #fff;
-border-color: #4d04bc;
+border-color: #2f04bc12;
 transition: all 0.5s ease-in-out;
 }
 .btn.support:hover{
 background: transparent;
-border-color: white;
+border-color: #6cdaeb4f;
 color: #000;
 .link h2 {
   padding: 0rem 2rem;
