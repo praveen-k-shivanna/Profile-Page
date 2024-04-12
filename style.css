@@ -145,22 +145,22 @@ body{
     cursor: pointer;
 }
 .btn.btn-pink{
-    background: #5015f3;
+    background: #347bf6;
     color: #fff;
     border-color: #4d04bc;
     transition: all 0.5s ease-in-out;
 }
 .btn.btn-pink:hover{
     background: transparent;
-    border-color: #dd2d4a;
+    border-color: #f371d7;
     color: #000;
 }
 .btn.btn-white{
     transition: all 0.5s ease-in-out;
 }
 .btn.btn-white:hover{
-    background: #dd2d4a;
-    border-color: #dd2d4a;
+    background: #f159b4da;
+    border-color: #fa032c;
     color: #fff;
 }
 .about-para p{
